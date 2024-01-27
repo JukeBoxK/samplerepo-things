@@ -3,3 +3,4 @@ cola
 tea
 fruit juice
 alchohol
+milk
