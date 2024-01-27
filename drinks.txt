@@ -2,5 +2,8 @@ coffee
 cola
 tea
 fruit juice
+<<<<<<< HEAD
 alchohol
 milk
+=======
+>>>>>>> master
