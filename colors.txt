@@ -4,3 +4,4 @@ white
 yellow
 green
 magenta
+orange
